@@ -8,6 +8,8 @@
 #### I am doing my PhD in Geography from [Department of Geography](https://geog.hkbu.edu.hk/) at the [Hong Kong Baptist University](https://www.hkbu.edu.hk/). 
 #### My research interest includes: Geographic Information Science (GIS), remote sensing, and environmental modeling. More specifically, I am interested in applying geospatial techniques, machine learning, and cloud computing (e.g., [Google Earth Engine](https://earthengine.google.com/)) to study environmental change, hazard analysis, and climate change.
 
+#### Besides, I'm a (5 star rated & Level-1) Fiverr seller and provides Google Earth Engine based consultancy [services](https://www.fiverr.com/share/lboqN2/). I have ~4 years of experience in geospatial domain, and have worked on more then 100 projects on remote sensing and GEE. My current aim is to work on regional to global scale studies addressing environmental change using geospatial techniques. For this I am working as well as open to any collaboration opportunity.
+
 ## Recent Publications:
 
 - #### [Waleed, M., & Sajjad, M. (2022). Leveraging cloud-based computing and spatial modeling approaches for land surface temperature disparities in response to land cover change: Evidence from Pakistan. Remote Sensing Applications: Society and Environment, 25, 100665.](https://doi.org/10.1016/j.rsase.2021.100665)
@@ -26,7 +28,7 @@
 
 [Fiverr]: https://www.fiverr.com/waleed_gis
 [Google Scholar]: https://scholar.google.com/citations?user=mx4VhG4AAAAJ&hl=en
-[LinkedIn]: www.linkedin.com/in/mirzawaleed197
+[LinkedIn]: https://www.linkedin.com/in/mirzawaleed197
 [ResearchGate]: https://www.researchgate.net/profile/Mirza-Waleed
 [orcid]: https://orcid.org/0000-0003-0006-2490
 [Gmail]: mailto:mirzawaleed197@gmail.com
@@ -38,9 +40,9 @@
 
 - **Cloud Computing & Big Data:** [Google Earth Engine](https://earthengine.google.com/)
 
-- **Geospatial/Statistical Analysis:** [Python](https://docs.conda.io/en/latest/miniconda.html) | [Jupyter Notebook](https://jupyter.org/) | [IDE: VSCode](https://code.visualstudio.com/)
+- **Geospatial & Big Data Analysis:** [Python](https://docs.conda.io/en/latest/miniconda.html) | [Jupyter Notebook](https://jupyter.org/) | [IDE: VSCode](https://code.visualstudio.com/)
 
-- **Visualizations:** [MiniTab](https://www.minitab.com/en-us/) | [PowerBI](https://powerbi.microsoft.com/en-au/) | [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) | [Excel](https://www.microsoft.com/en-ww/microsoft-365/excel)
+- **Statistics & Visualizations:** [MiniTab](https://www.minitab.com/en-us/) | [PowerBI](https://powerbi.microsoft.com/en-au/) | [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) | [Excel](https://www.microsoft.com/en-ww/microsoft-365/excel)
 
 - **Environmental Modelling/Prediction:** [TerrSet](https://clarklabs.org/terrset/) | [FLUS](https://www.geosimulation.cn/FLUS.html)
 
