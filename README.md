@@ -21,7 +21,9 @@ Mirza Waleed
 
 - #### [Hussain, S., Mubeen, M., Ahmad, A., Masood, N., Hammad, H. M., Amjad, M., ... & Waleed, M. (2021). Satellite-based evaluation of temporal change in cultivated land in Southern Punjab (Multan region) through dynamics of vegetation and land surface temperature. Open Geosciences, 13(1), 1561-1577.](https://doi.org/10.1515/geo-2020-0298)
 
-### Contact me:
+## Contact me:
+
+<h3 align="center">
 
 
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="50" title="Gmail" />][Gmail]&nbsp;
@@ -38,6 +40,7 @@ Mirza Waleed
 [orcid]: https://orcid.org/0000-0003-0006-2490
 [Gmail]: mailto:mirzawaleed197@gmail.com
 
+</h3>
 
 ## **My Tools:**
 
@@ -53,7 +56,7 @@ Mirza Waleed
 
 
 <br />
-
+<h3 align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50" title="Jupyter Notebooks" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50" title="Python" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50;" />&nbsp;
@@ -68,7 +71,7 @@ Mirza Waleed
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="50" title="Excel" />&nbsp;
 <img src="https://i0.wp.com/filecr.com/wp-content/uploads/2022/01/clark-labs-terrset-logo.png" width="50" title="Terrset" />&nbsp;
 
-
+</h3>
 
 <br />
 
