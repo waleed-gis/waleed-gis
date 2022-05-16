@@ -83,8 +83,8 @@ My Github Stats :
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=waleed-gis&show_icons=true)
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waleed-gis&langs_count=3&hide=go,html,css,tex)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waleed-gis&langs_count=5)
 
 
 
