@@ -1,9 +1,7 @@
 <h1 align="center">
 Mirza Waleed
-</h1>
-
-<h3 align="center">
-Doctoral Researcher 👨‍🔬🎓 | Geography 🌍 | Remote Sensing 🛰️ | Hazard Analysis 🌊 | Climate Change 🌡️ | Land-use 🌆 | Geospatial Science 💻🗺️
+</h1><h3 align="center">
+Doctoral Researcher👨‍🔬🎓| Geography🌍| Remote Sensing🛰️| Hazard Analysis🌊| Climate Change🌡️| Land-use🌆| Geospatial Science💻🗺️
 </h3>
 
 ---
