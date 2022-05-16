@@ -75,7 +75,9 @@ Mirza Waleed
 
 ---
 
-<h2 align ="center">My Github Stats :
+<h2 align ="center">
+
+My Github Stats :
 
 <br />
 
