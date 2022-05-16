@@ -77,6 +77,18 @@ Mirza Waleed
 
 <h2 align ="center">
 
+Current Projects:
+
+<a href="https://github.com/waleed-gis/satellite-image-analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=waleed-gis&repo=satellite-image-analysis" />
+</a>
+
+
+---
+
+
+
+
 My Github Stats :
 
 <br />
@@ -84,15 +96,7 @@ My Github Stats :
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=waleed-gis&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waleed-gis&langs_count=5)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waleed-gis&langs_count=2&hide=html,css)
 
 
 ---
-
-Current Projects:
-
-<a href="https://github.com/waleed-gis/satellite-image-analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=waleed-gis&repo=satellite-image-analysis" />
-</a>
