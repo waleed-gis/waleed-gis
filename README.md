@@ -54,8 +54,6 @@ Mirza Waleed
 
 - **Environmental Modelling/Prediction:** [TerrSet](https://clarklabs.org/terrset/) | [FLUS](https://www.geosimulation.cn/FLUS.html)
 
-
-<br />
 <h3 align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50" title="Jupyter Notebooks" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50" title="Python" />&nbsp;
@@ -73,7 +71,6 @@ Mirza Waleed
 
 </h3>
 
-<br />
 
 
 ---
