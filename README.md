@@ -1,6 +1,6 @@
 # Mirza Waleed
 
-## Doctoral Researcher 👨‍🔬🎓| Geography 🌍|| Remote Sensing 🛰️| Hazard Analysis 🌊| Climate Change 🌡️| Land-use 🌆| Geospatial Science 💻🗺️
+### Doctoral Researcher 👨‍🔬🎓| Geography 🌍|| Remote Sensing 🛰️| Hazard Analysis 🌊| Climate Change 🌡️| Land-use 🌆| Geospatial Science 💻🗺️
 
 
 ---
@@ -16,13 +16,13 @@
 
 ### Contact me:
 
-[<img src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/09/fiverr-2018.png?auto=format&q=60&fit=max&w=930g" width="75" title="Fiverr" />][Fiverr]&nbsp;
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="75" title="Gmail" />][Gmail]&nbsp;
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/google_scholar.svg" width="75" title="Google Scholar" />][Google Scholar]&nbsp;
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="75" title="LinkedIn" />][LinkedIn]&nbsp;
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/researchgate.svg" width="75" title="ResearchGate" />][ResearchGate]&nbsp;
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/orcid.svg" width="75" title="ORCID" />][orcid]&nbsp;
 
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="50" title="Gmail" />][Gmail]&nbsp;
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/google_scholar.svg" width="50" title="Google Scholar" />][Google Scholar]&nbsp;
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="50" title="LinkedIn" />][LinkedIn]&nbsp;
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/researchgate.svg" width="50" title="ResearchGate" />][ResearchGate]&nbsp;
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/orcid.svg" width="50" title="ORCID" />][orcid]&nbsp;
+[<img src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/09/fiverr-2018.png?auto=format&q=60&fit=max&w=930g" width="50" title="Fiverr" />][Fiverr]&nbsp;
 
 [Fiverr]: https://www.fiverr.com/waleed_gis
 [Google Scholar]: https://scholar.google.com/citations?user=mx4VhG4AAAAJ&hl=en
