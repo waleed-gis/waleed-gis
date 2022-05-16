@@ -1,7 +1,10 @@
-# Mirza Waleed
+<h1 align="center">
+Mirza Waleed
+</h1>
 
-### Doctoral Researcher 👨‍🔬🎓| Geography 🌍|| Remote Sensing 🛰️| Hazard Analysis 🌊| Climate Change 🌡️| Land-use 🌆| Geospatial Science 💻🗺️
-
+<h3 align="center">
+Doctoral Researcher 👨‍🔬🎓 | Geography 🌍 | Remote Sensing 🛰️ | Hazard Analysis 🌊 | Climate Change 🌡️ | Land-use 🌆 | Geospatial Science 💻🗺️
+</h3>
 
 ---
 
@@ -51,11 +54,11 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50" title="Jupyter Notebooks" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50" title="Python" />&nbsp;
-<img align="left" alt="Visual Studio Code" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />&nbsp;
-<img align="left" alt="JavaScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />&nbsp;
-<img align="left" alt="Git" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />&nbsp;
-<img align="left" alt="GitHub" width="50" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Minitab_Logo.svg/1200px-Minitab_Logo.svg.png" width="60" title="MiniTab" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50;" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />&nbsp;
+<img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" width="50" />&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Minitab_Logo.svg/1200px-Minitab_Logo.svg.png" width="50" title="MiniTab" />
 <img src="https://earthengine.google.com/static/images/earth-engine-logo.png" width="50" title="Google Earth Engine" />&nbsp;
 <img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png" width="50" title="ArcGIS Pro" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" width="50" title="QGIS" />&nbsp;
@@ -70,7 +73,22 @@
 
 ---
 
-## My GitHub Stats:
+<h2 align ="center">My Github Stats :
+
+<br />
+
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=waleed-gis&show_icons=true)
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waleed-gis&langs_count=3&hide=go,html,css,tex)
+
+
+
+
+---
+
+Current Projects:
+
+<a href="https://github.com/waleed-gis/satellite-image-analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=waleed-gis&repo=satellite-image-analysis" />
+</a>
