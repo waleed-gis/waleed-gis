@@ -1,12 +1,12 @@
 <h1 align="center">
 Mirza Waleed
 </h1>
-<h3 align="center">
+<h2 align="center">
 | Doctoral Researcher👨‍🔬🎓| Geography🌍| Remote Sensing🛰️|
-</h3>
-<h4 align="center">
+</h2>
+<h3 align="center">
 | Hazard Analysis🌊| Climate Change🌡️| Land-use🌆|
-</h4>
+</h3>
 
 ---
 
@@ -17,9 +17,9 @@ Mirza Waleed
 
 ## Recent Publications:
 
-- #### [Waleed, M., & Sajjad, M. (2022). Leveraging cloud-based computing and spatial modeling approaches for land surface temperature disparities in response to land cover change: Evidence from Pakistan. Remote Sensing Applications: Society and Environment, 25, 100665.](https://doi.org/10.1016/j.rsase.2021.100665)
+- #### Waleed, M., & Sajjad, M. (2022). Leveraging cloud-based computing and spatial modeling approaches for land surface temperature disparities in response to land cover change: Evidence from Pakistan. Remote Sensing Applications: Society and Environment, 25, 100665. | [DOI](https://doi.org/10.1016/j.rsase.2021.100665) | [PDF](https://drive.google.com/file/d/15S7TzBYdyYUBULQ9UUQ6ngeI-G6fhRTx/view?usp=sharing) | 
 
-- #### [Hussain, S., Mubeen, M., Ahmad, A., Masood, N., Hammad, H. M., Amjad, M., ... & Waleed, M. (2021). Satellite-based evaluation of temporal change in cultivated land in Southern Punjab (Multan region) through dynamics of vegetation and land surface temperature. Open Geosciences, 13(1), 1561-1577.](https://doi.org/10.1515/geo-2020-0298)
+- #### Hussain, S., Mubeen, M., Ahmad, A., Masood, N., Hammad, H. M., Amjad, M., ... & Waleed, M. (2021). Satellite-based evaluation of temporal change in cultivated land in Southern Punjab (Multan region) through dynamics of vegetation and land surface temperature. Open Geosciences, 13(1), 1561-1577. | [DOI](https://doi.org/10.1515/geo-2020-0298) | [PDF](https://drive.google.com/file/d/1641f49BkZnuWhublovjEcUnpWO3U1jlq/view?usp=sharing) | 
 
 ## Contact me:
 
@@ -100,7 +100,7 @@ My Github Stats :
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=waleed-gis&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waleed-gis&langs_count=2&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waleed-gis&langs_count=2&hide=html,css,shell)
 
 
 ---
