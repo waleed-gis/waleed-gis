@@ -84,7 +84,7 @@ Current Projects:
 </a>
 
 <a href="https://github.com/waleed-gis/PU-Waleed2021">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=waleed-gis&repo=PU-Waleed2021" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=waleed-gis&repo=PU-Waleed2022" />
 </a>
 
 
