@@ -79,14 +79,13 @@ Mirza Waleed
 
 Current Projects:
 
-<a href="https://github.com/waleed-gis/satellite-image-analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=waleed-gis&repo=satellite-image-analysis" />
-</a>
-
 <a href="https://github.com/waleed-gis/PU-Waleed2021">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=waleed-gis&repo=PU-Waleed2022" />
 </a>
 
+<a href="https://github.com/waleed-gis/env_indicators_GEE_central_america">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=waleed-gis&repo=env_indicators_GEE_central_america" />
+</a>
 
 ---
 
